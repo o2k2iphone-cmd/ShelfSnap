@@ -1,0 +1,31 @@
+{
+  "name": "ShelfSnap",
+  "short_name": "ShelfSnap",
+  "description": "売場写真をフォルダ別に自動保存",
+  "start_url": "/shelfsnap/",
+  "scope": "/shelfsnap/",
+  "display": "standalone",
+  "background_color": "#e8f4ff",
+  "theme_color": "#1a7fff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/shelfsnap/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/shelfsnap/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/shelfsnap/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
